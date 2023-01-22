@@ -1,0 +1,16 @@
+{
+  "news": [
+    {
+      "name": "Breaking News",
+      "imageURL": "https://media.istockphoto.com/id/1264074047/vector/breaking-news-background.jpg?s=170667a&w=0&k=20&c=t-pWFdBP3xfP9by81O3kECTWxbT20ITh1wjE3BCOdew=",
+      "comment": "Hospitals in China appear to be filling up amid concerns about a fresh Covid-19 wave hitting the country, the World Health Organization (WHO) says.",
+      "id": "JUpfh3Z"
+    },
+    {
+      "name": "Corona",
+      "imageURL": "https://media.istockphoto.com/id/1264074047/vector/breaking-news-background.jpg?s=170667a&w=0&k=20&c=t-pWFdBP3xfP9by81O3kECTWxbT20ITh1wjE3BCOdew=",
+      "comment": "Hospitals in China appear to be filling up amid concerns about a fresh Covid-19 wave hitting the country, the World Health Organization (WHO) says.\n\nDr Michael Ryan says intensive care units (ICU) are busy despite officials saying numbers are \"relatively low\".\n\nChina figures show no-one died of Covid on Wednesday but there is scepticism about the disease's real impact.\n\nIn recent days hospitals in Beijing and other cities have been filling up as the latest Covid surge hits China.",
+      "id": "JtaueA6"
+    }
+  ]
+}
